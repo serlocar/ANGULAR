@@ -1,0 +1,26 @@
+{
+  "name": "curso_angular",
+  "version": "1.0.0",
+  "description": "Ejercicios de angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/serlocar/ANGULAR.git"
+  },
+  "keywords": [
+    "Angular"
+  ],
+  "author": "Sergio Lopez Cardin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/serlocar/ANGULAR/issues"
+  },
+  "homepage": "https://github.com/serlocar/ANGULAR",
+  "dependencies": {
+    "angular": "^1.6.4",
+    "angularjs": "0.0.1"
+  }
+}
